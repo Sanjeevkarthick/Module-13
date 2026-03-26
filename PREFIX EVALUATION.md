@@ -28,8 +28,8 @@ To write a Python program to evaluate a user-given Prefix expression using a sta
 ### PROGRAM
 
 ```
-#Reg.no 212222090012
-#Name Lokeshwari D
+#Reg.no 212222090023
+#Name Sanjeev karthick B
 
 OPERATORS=set(['*','-','+','%','/','**']) 
 def evaluate(expression):
